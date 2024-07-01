@@ -1,4 +1,4 @@
-{
+see{
     "name": "rgnk wabot",
     "description": "WhatsApp public/user bot",
     "logo": "",
@@ -104,7 +104,7 @@
             "value":"_Bot is alive since {uptime}_"
         },
        "SESSION": {
-            "description": "Your session code, obtained by scanning QR",
+            "description": "Raganork~d5249605338291af98db4accdf865429:353243547a4f736a47516f3d",
             "required": true         
         }
     },
